@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Woong's%20github&fontSize=90)
 
-## 📚Tech Stack📚
+### 📚Tech Stack📚
 ### ✨ Language ✨
 <div align="left">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
